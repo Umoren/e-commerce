@@ -1,3 +1,4 @@
+
 # EStack
 
 > My pioneering Nuxt.js project
@@ -20,3 +21,6 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+# e-commerce
+E-commerce site built with nuxt - JAMSTACK
